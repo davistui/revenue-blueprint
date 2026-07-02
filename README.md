@@ -12,15 +12,15 @@ Founders building go-to-market from scratch, sellers stuck on deals that won't m
 
 ## Read it in order
 
-The layers build on each other - read top to bottom first, then use it as reference.
+The layers build on each other - read top to bottom first, then use it as reference. You can read the whole thing right here on GitHub (links below), or **[read the full designed version at blueprint.davistui.com](https://blueprint.davistui.com)**.
 
-1. [Why Sales?](https://blueprint.davistui.com/why-sales/) - why revenue is the only feedback that doesn't lie
-2. [How to Use This Guide](https://blueprint.davistui.com/how-to-use/) - the three layers, and how they fit together
-3. [Why do organisations buy?](https://blueprint.davistui.com/why-organisations-buy/) - the value chain and APQC: where value sits and who owns it
-4. [What do you sell?](https://blueprint.davistui.com/what-you-sell/) - the inputs you build: value map, MEDDPIC, mutual action plan, champion plan, give/get
-5. [How do you sell?](https://blueprint.davistui.com/how-you-sell/) - the sales cycle, stage by stage
-6. [Putting it together](https://blueprint.davistui.com/putting-it-together/) - the single line running through all three layers
-7. [Work with me](https://blueprint.davistui.com/work-with-me/) - if you'd rather not build it alone
+1. [Why Sales?](docs/why-sales.md) - why revenue is the only feedback that doesn't lie
+2. [How to Use This Guide](docs/how-to-use.md) - the three layers, and how they fit together
+3. [Why do organisations buy?](docs/why-organisations-buy.md) - the value chain and APQC: where value sits and who owns it
+4. [What do you sell?](docs/what-you-sell.md) - the inputs you build: value map, MEDDPIC, mutual action plan, champion plan, give/get
+5. [How do you sell?](docs/how-you-sell.md) - the sales cycle, stage by stage
+6. [Putting it together](docs/putting-it-together.md) - the single line running through all three layers
+7. [Work with me](docs/work-with-me.md) - if you'd rather not build it alone
 
 ## A note on the frameworks
 

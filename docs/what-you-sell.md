@@ -1,0 +1,240 @@
+# What Do You Sell?
+
+> The five inputs you build before you engage - value map, MEDDPIC, mutual action plan, champion plan, and give/get.
+
+It's a double edged sword when you figure out your hypothesis within an organisation and an opportunity. We know who we want to get to, what we want to say and validate the why. But when we look at the things to get a cycle moving - you realise how little of the outcome you own. The budget cycle isn't available, they might have expanded an existing technology partnership so the timing is out. You know an exec who never takes calls, well, still never takes calls.
+
+So the counter intuitive part of this whole thing is that when you don't own the outcomes, you own the inputs.
+
+> [!TIP]
+> **The core idea of Layer 2**
+>
+> An outcome you wait on. An input you build. In a sales cycle full of noise, inputs are where focus and clarity come from. But that's not the main thing. The main thing is you can execute and build them yourself.
+
+So then - what do we build?
+
+The **value map** is where we flesh out the buying vision - why they'd change at all. **MEDDPIC** qualifies the opportunity: is this real, and is it ours to win. The **mutual action plan** sequences the activity that drives momentum toward signed. The **champion development plan** builds around the person who'll advocate for us when we're not in the room. And the **give/get** sets up the trade, so we negotiate to something both sides can live with.
+
+This is what we'll cover in Layer 2.
+
+## Value Map
+
+In Layer 1 the value chain told us where a business creates value and where it leaks. The value map is where that read becomes a buyer-facing hypothesis: not "here's where the margin is," but "here's why they'd change, and here's the conversation that earns us the room." This should be the first real input you build. You don't own whether the budget cycle is open or whether the exec takes the call. You do own this.
+
+### What it is
+
+A value map is a one-page document of your understanding of a prospect: their objectives, the strategies they've chosen, the initiatives they've already funded, the challenges that cause roadblocks, and where your capabilities fit against them.
+
+The point of writing it down is it forces every capability conversation to anchor to something the buyer is already funded and measured on - not something you find interesting about your product. You earn the right to talk capability by first proving you understand their world.
+
+It is a hypothesis, not a fact sheet. You take it into the meeting to be corrected. When the buyer corrects and adds to it, that correction *is* the discovery.
+
+### Why bother
+
+Because your leverage is front-loaded, and most sellers show up after it's gone.
+
+A buyer's decision runs in a rough order: *Why should I change? → What do I need? → Who can meet my requirements? → What are the risks, is the price right? → Who's the best vendor?* The idea is to shape the outcome early - while the buying vision is still forming, not near the end when you're hoping price gets you across the line. The value map is how you work with organisations at the "why should I change" level, not the "who's the best vendor" level.
+
+### The components
+
+Read the map as a cycle. Each section feeds the next, and the whole thing points towards success.
+
+**Account information**
+
+- *What it is:* Account team, name and location, and who you're competing against.
+- *What it does:* Sets context before content, so the map reads inside the buyer's competitive reality rather than a vacuum.
+- *Example:* Mid-size retail bank; AE + SA on the account; competing against the incumbent SI and a build-in-house option.
+
+**Corporate objectives** *(drive strategy)*
+
+- *What it is:* The board-level outcomes the executives are publicly measured on - the "why they're in the game."
+- *What it does:* Gives you the language the C-suite actually speaks, so everything below can ladder up to a number they answer for.
+- *Example:* Lift return on equity to 12% by FY28; hold cost-to-income in the mid-40s.
+
+**Business strategies** *(drive initiatives)*
+
+- *What it is:* The pillars they've chosen to hit those objectives.
+- *What it does:* Acts as the test for every initiative - if it doesn't trace to a pillar, it won't stay funded.
+- *Example:* Digitise the customer experience; automate manual process handling.
+
+**Business initiatives** *(are funded)*
+
+- *What it is:* Named programs with money committed, deadlines, and owners.
+- *What it does:* Separates "they might care" from "they've written a cheque," and gives you a real reason to open a conversation.
+- *Example:* Replatform the customer portal by Q3; launch self-service onboarding, owned by the COO.
+
+**Business & IT challenges** *(and consequences)*
+
+- *What it is:* The friction between the funded work and the promised dates - and what happens if it isn't addressed.
+- *What it does:* Points you at the opportunity, because a challenge with a consequence is a problem someone is already motivated to pay to solve.
+- *Example:* Legacy core is slow and costly to change → the Q3 portal date slips → the digital-experience target slips with it.
+
+**Capabilities** *(solve the challenges)*
+
+- *What it is:* The classes of capability those challenges demand, mapped to the challenge - not lifted off your product sheet.
+- *What it does:* Keeps discovery honest (the buyer's problem defines the capability) and lets you carry the same mapping into the rest of the sales journey.
+- *Example:* Challenge: slow change on a legacy core → Capability: an experience/integration layer that ships change without rip-and-replace.
+
+**Proof**
+
+- *What it is:* The examples that de-risk a specific challenge above.
+- *What it does:* Answers "what could go wrong," staged in the order an evaluation actually runs.
+- *Example:* A comparable regulated business shipped the same change in Y months with audit evidence generated as a by-product - maps to the legacy-change challenge.
+
+The flow: objectives → strategy → initiatives → challenges → capabilities → proof → win. Miss the top and you're selling into thin air. Miss the bottom and you can't close.
+
+### How to use it
+
+Given a lot of it is guess work on your end - the ultimate goal is to create a draft and find a champion that can help you validate it. Update it after every conversation - it's a living document, not a one-time artefact. And know that it doesn't stay in its own lane: it's integrated into other tools in this section.
+
+Build, test, update, reuse.
+
+### What you get out of it
+
+**Business-oriented conversations.** Senior executives are paid lots because they put money in the pockets of others. Read: they maximise shareholder value. When you approach people in this level, the common questions that elicit a response are: does this help me *grow revenue, is there a way I can reduce cost,* or will this *mitigate risk*? The value map forces you to frame everything in these terms.
+
+**A read on the financial impact.** When you start building and validating inputs - you can start figuring out the true cost of the current way of things. So the move is to pose the financial impact directly: tie your capability to a number the buyer already owns. A day taken out of a cycle time is worth *X*. A cost line that falls by a percent is worth *Y*. A risk exposure closed is worth avoiding *Z*. You don't need to have the buyer's exact figure to start - you need to think about your conversations as one about their number, not your feature. That's what can turn a product demo into a funding decision.
+
+**Clarity and focus.** This is the reason the value map is worth building. A sales cycle is mostly noise; you need to ensure you're building the right signals. It tells you where to prospect - which divisions and problems are worth hunting. It qualifies whether an opportunity is real and urgent, or just interesting. It gives a stuck deal somewhere to go: link it to a funded strategic initiative and you manufacture urgency that wasn't there. And in a negotiation, it means you always know *why* the thing has to be done. You can't control the budget cycle. You can control whether you walk in clear.
+
+> [!TIP]
+> **Key takeaways**
+>
+> The value map isn't a slide you fill in once and file. It carries through to every tool that comes after it, which means building it well pays off five times over and saves you repeating the work. It gives you consistency: the same story travels through the customer's organisation as it moves toward approval, so it doesn't mutate at every hand-off. And it's the thing that earns you the right to tell your story at the level where value - and budget - actually lives.
+>
+> You don't own the outcome. You own this input. Build it.
+
+## MEDDPIC
+
+The value map helps establish the *why* behind change. MEDDPIC is a qualification framework - seven gates (Metrics, Economic buyer, Decision criteria, Decision process, Paper process, Identified pain, Champion). MEDDPIC answers two questions: is this deal real, is it ours to win?
+
+In enterprise sales there are three things you can't get back. Two are obvious: time and focus - yours, your solution architects', product's, engineering's etc. When you spend other people's time and focus on deals that don't close, you lose a third thing - your credibility. MEDDPIC isn't a form you fill in to look operationally tidy. It's the discipline that decides where that finite time goes. Run it programmatically and it does three things: de-risks a complex cycle, standardises how you spend resources, and turns an unpredictable procurement machine into a pathway you can chase down.
+
+MEDDPIC is really a set of gates you test early, and test hard, so you only pour scarce resources - POCs, trials, client dinners - into opportunities that are actually going somewhere. Here's what each gate is testing:
+
+| Component             | What it is                                                   | What it's really testing                                     |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **M**etrics           | The economic proof required to justify change                | Can you tie this to a number big enough to fund it?          |
+| **E**conomic buyer    | The person who can release budget and sign it off            | Do you have access to the one who actually says yes?         |
+| **D**ecision criteria | The technical and business blueprint they're grading against | Did you help write it, or are you playing someone else's game? |
+| **D**ecision process  | The governance, evaluation steps and approval gates          | Do you know every step, or will the machine surprise you?    |
+| **P**aper process     | The literal path a contract takes through legal and procurement | Do you know who touches the paper before the quarter closes? |
+| **I**dentified pain   | The compounding problem driving the urgency                  | Is doing nothing more expensive than acting?                 |
+| **C**hampion          | Your inside operator with the power to break glass           | Will they co-author the business case and open the door to E? |
+
+> [!WARNING]
+> **Test C and E first**
+>
+> A "champion" who won't co-author the business case or grant access to the economic buyer is a fan, not a champion - and that's a data point that the deal is misaligned, not a reason to send in the architects.
+
+> [!NOTE]
+> **The bottom line**
+>
+> This isn't paperwork. Running MEDDPIC well means asking uncomfortable questions early, mapping the internal landscape honestly, and having the conviction to walk away from a deal that won't close - before it eats your engineers' calendar. And it doesn't stop at qualification: as the gates validate, the work shifts from "is this real" to "let's sequence it," which is where the Mutual Action Plan picks up - built side by side with the champion you just pressure-tested.
+>
+> The value map decides why. MEDDPIC decides whether. Qualify hard, so the only deals that get your team's time are the ones you can win.
+
+## Mutual Action Plan
+
+MEDDPIC tells you if the deal is real. The Mutual Action Plan (MAP) isn't about qualifying, it's about sequencing. A "yes" from your champion can still sit months away from a signature.
+
+The moment a prospect agrees you can solve their problem, the job changes from convincing to executing. In enterprise SaaS that gap is where deals go to die: legal, security, procurement, shifting priorities. The procurement cycle becomes a black hole. A MAP turns it into a shared project - a plan you co-author with your champion, working back from the date they need value by.
+
+It's not a checklist you email over. It's a set of tasks both sides own, pointed at one goal: customer time-to-value. Translate the paper process and decision process you mapped in MEDDPIC into a transparent plan, and it does three things:
+
+- **Creates accountability**: explicit deadlines and deliverables against named owners on *both* sides (security, legal, architecture review, procurement).
+- **Flushes out blindspots**: hidden stakeholders and forgotten steps surface while there's still time to deal with them.
+- **Turns vendor into partner**: you stop chasing a signature by quarter-end and start acting as the partner helping them hit a deadline they care about.
+
+Here's an example of what it looks like (notice this goes past the sign date and looks at it holistically):
+
+| Milestone / activity             | Target date | [Your company] owner | [Customer] owner            | Status          |
+| -------------------------------- | ----------- | -------------------- | --------------------------- | --------------- |
+| Technical validation complete    | 12 Jul      | Priya (SA)           | Tom (Eng lead)              | ✅ Completed     |
+| Security review passed           | 26 Jul      | Dan (Security)       | CISO team                   | ⬜ Not completed |
+| Architecture sign-off            | 2 Aug       | Priya (SA)           | Rina (Enterprise Architect) | ⬜ Not completed |
+| Legal redlines agreed            | 16 Aug      | Sam (Legal)          | Legal                       | ⬜ Not completed |
+| Procurement / PO raised          | 30 Aug      | You (AE)             | Procurement                 | ⬜ Not completed |
+| **Signature - go-live deadline** | **6 Sep**   | You (AE)             | Maria (Economic Buyer)      | ⬜ Not completed |
+
+> [!NOTE]
+> **The bottom line**
+>
+> Enterprise cycles are complex and, honestly, exhausting. A MAP strips out the ambiguity: a predictable path everyone can see de-risks the close, protects your forecast, and builds real trust with the champion. You can't remove the bureaucracy - but you can turn it from a black hole into a plan you and your champion run together.
+>
+> And notice the through-line: the MAP only works because it's built *with* a champion. Which raises the obvious next question - how do you build one?
+
+## Champion Development Plan
+
+The MAP only works with a champion. So - how do you build one?
+
+First, know what you're building. A champion is not a friend, a fan, or a coach. A fan likes you. A coach feeds you information. A champion does something rarer: they sell for you when you're not in the room, and they do it because your win is their win. Influence plus skin in the game. Miss that distinction and you'll burn a quarter courting someone who was never going to spend a cent of their own political capital on you.
+
+The template runs on four verbs - Identify, Develop, Test, Leverage. Treat them as a sequence, not a checklist.
+
+1. **Identify.** Map two things: influence and authority. Authority is whether they control budget; influence is whether people listen regardless. Your ideal champion often has high influence and *no* budget authority - they can't sign, but they can get you to the person who can. You're pinning down where they actually sit, not where their title says they sit.
+
+2. **Develop.** A champion advances their own agenda through your deal, so find the agenda. Promotion, recognition, industry profile, credibility with their exec team - whatever their win is, your job is to make your deal the vehicle for it. You're not asking a favour; you're offering a way for them to get something they already want. Air cover, a business case with their name on it, a speaking slot, hard numbers they can wave at the board.
+
+3. **Test.** This is the part that separates the plan from an org chart, and it's the part most people skip. You test a champion by asking them to spend a little political capital: set up the meeting with the economic buyer, share the internal cost figures, co-present the business case. A real champion does it. A fan finds a reason not to. The dodge isn't a failure - it's data. It tells you you've got a coach, and you should keep looking before you deploy your architects.
+
+4. **Leverage.** Once they're tested and real, you arm them. Line up what they want against what you deliver, and pre-load them for the obstacles they'll hit when you're not there - the skeptical CFO, the procurement freeze - with the response already in their pocket. A leveraged champion carries your deal through rooms you'll never be invited to.
+
+Here's the plan filled out for a fictional prospect, **Meridian Logistics**:
+
+| Stage        | Champion plan: Meridian Logistics                            |
+| ------------ | ------------------------------------------------------------ |
+| **Identify** | Alex Chen, Head of Digital Delivery, 2 yrs tenure. Role: decision-influencer + technical implementer. High influence, no budget authority - can't sign, but owns the roadmap and the room. |
+| **Develop**  | Wants the Director of Technology role opening next FY. Needs a visible, board-level win and credibility with the exec team. We give: a business case with their name on it, the ROI figures, and a conference speaking slot on the transformation. |
+| **Test**     | 1) Set up a 30-min session with the CFO (economic buyer). 2) Share current-state exception-handling costs. 3) Co-present the pilot case to the steering committee. → Passed 1 and 2; 3 pending. |
+| **Leverage** | *Their result:* automation pilot live this quarter, named as transformation lead. *Our benefit:* land in ops, expand into finance and returns. *Obstacle:* CFO doubts ROI → armed Alex with the $-per-manual-exception figure. *Obstacle:* Q3 procurement freeze → paper process started early in the MAP. |
+
+> [!NOTE]
+> **The bottom line**
+>
+> You can build the best value map, qualify perfectly, and sequence a flawless MAP - and still lose if no one carries it when you leave the room. The champion is the one input that keeps working in your absence. Identify honestly, develop around their agenda, test before you trust, leverage once they're real.
+>
+> And a champion who's been developed and tested is exactly who you want across the table when it's time to trade - which is where the last tool, the give/get, comes in.
+>
+> You can't be in every room. A champion is how you're represented in the ones you can't reach. Build one on purpose.
+
+## Give / Get
+
+A give/get is a simple discipline for negotiation: you never give a concession away for free. Every give is traded for a get. Discount for term. Faster onboarding for a signature date. A reference for a better price. The trade *is* the point - a deal both sides had to give something for is one both sides can live with, and, more to the point, one that holds.
+
+Left to instinct, a sales cycle ends in death by a thousand discounts. The customer asks, you concede, they ask again, and you've taught them that pushing works. The give/get flips it. Every ask becomes a chance to get something back - and the moment you trade instead of cave, you stop being a vendor to squeeze and start being a partner to deal with.
+
+Two rules make it work:
+
+- **Give what's cheap to you and valuable to them; get what's valuable to you.** Extended payment terms might cost you little and mean a lot to their CFO. A multi-year commitment costs them little and de-risks your whole forecast.
+- **Trade in "if / then," never unilaterally.** "*If* you can commit to three years, *then* I can get you to that number." The concession only exists in exchange for the get.
+
+And plan your gives before you're in the room - under pressure you'll give the store away. Like everything else in Layer 2, this is an input you build in advance, not a reaction you improvise.
+
+**Practical give/gets**
+
+| If you give…                     | …get in return                                               |
+| -------------------------------- | ------------------------------------------------------------ |
+| A price discount                 | A longer term - multi-year commitment                        |
+| A discount                       | More scope up front - extra seats or modules                 |
+| A discount                       | A public reference, case study, or logo rights               |
+| Expedited onboarding             | A committed signature date                                   |
+| Extended payment terms           | A larger deal size, or auto-renewal                          |
+| A reduced-cost pilot             | Agreed success criteria + commitment to expand if met        |
+| Extra professional-services days | An introduction to another business unit (expansion path)    |
+| Waiving a setup fee              | Acceptance of your standard paper (faster legal)             |
+| A premium support tier           | Lock-in to their compelling event / go-live date             |
+| Free training                    | Your champion co-presents internally, or access to the economic buyer |
+
+> [!NOTE]
+> **The bottom line**
+>
+> Notice what all five tools have in common. The value map, MEDDPIC, the MAP, the champion plan, the give/get - none of them are the outcome. You don't control whether the budget opens, whether the exec calls back, whether they sign this quarter. What you control is these: the inputs you build before you're in the room, and the discipline you carry into it.
+>
+> That's the whole idea of Layer 2. When you don't own the outcome, you own the inputs. So build them - and trade well!
+
+---
+
+*Read the full guide at [blueprint.davistui.com](https://blueprint.davistui.com).*
+
+**Previous:** [← Why Do Organisations Buy?](why-organisations-buy.md) · **Next:** [How Do You Sell? →](how-you-sell.md)
